@@ -1,4 +1,4 @@
-package s1_object.example2;
+package s2_object.example2;
 
 public class Main {
     public static void main(String[] args) {

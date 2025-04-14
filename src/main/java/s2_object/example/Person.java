@@ -1,4 +1,4 @@
-package s1_object.example;
+package s2_object.example;
 
 public class Person {
     String name;

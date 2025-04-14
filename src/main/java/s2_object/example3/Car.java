@@ -1,4 +1,4 @@
-package s1_object.example3;
+package s2_object.example3;
 
 public class Car {
     int modelYear;
