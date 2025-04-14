@@ -4,6 +4,7 @@ public class Person {
     private String name;
     private int age;
     private double salary;
+    private  String address;
 
     public String getName() {
         return name;
@@ -25,7 +26,17 @@ public class Person {
         return salary;
     }
 
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
     public void setSalary(double salary) {
         this.salary = salary;
     }
+
+
 }
